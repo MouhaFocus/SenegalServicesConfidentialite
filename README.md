@@ -1,4 +1,4 @@
-#Conditions générales d'utilisation
+Conditions générales d'utilisation
 
 La plateforme https://senegalservices.sn/ est un portail d’information, d’échange, de communication et de mise à disposition de services en ligne pour les usagers de l’Administration. L’accès est ouvert au public.
 La plateforme permet aux utilisateurs :
@@ -6,7 +6,6 @@ D’obtenir des informations sur les démarches administratives, notamment la pr
 De réaliser des démarches administratives en ligne de manière sécurisée.
 De suivre le traitement des démarches
 D'échanger avec l’ADIE sur les démarches en ligne.
-L’utilisation de la plateforme est facultative et gratuite.
 Acceptation des conditions d’utilisation
 Les présentes conditions générales d’utilisation s’appliquent à tout utilisateur de la plateforme. Tout utilisateur reconnaît avoir pris connaissance des présentes conditions et déclare expressément les accepter sans réserve.
 Avertissement relatif au contenu de la plateforme
