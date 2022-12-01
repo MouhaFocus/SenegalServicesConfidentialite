@@ -1,69 +1,26 @@
-# Politique de confidentialité
+#Conditions générales d'utilisation
 
-SENUM a construit l'application Sénégal Service en tant qu'application commerciale. Ce service est fourni par SENUM et est destiné à être utilisé tel quel.
-
-Cette page est utilisée pour informer les visiteurs de nos politiques concernant la collecte, l'utilisation et la divulgation des informations personnelles si quelqu'un décide d'utiliser notre service.
-
-Si vous choisissez d'utiliser notre Service, vous acceptez la collecte et l'utilisation d'informations en relation avec cette politique. Les informations personnelles que nous collectons sont utilisées pour fournir et améliorer le service. Nous n'utiliserons ni ne partagerons vos informations avec personne, sauf comme décrit dans la présente politique de confidentialité.
-
-Les termes utilisés dans cette politique de confidentialité ont la même signification que dans nos conditions générales, qui sont accessibles dans l'espace client Sénégal Services, sauf indication contraire dans la présente politique de confidentialité.
-
-Collecte et utilisation des informations
-
-Pour une meilleure expérience, lors de l'utilisation de notre Service, nous pouvons vous demander de nous fournir certaines informations personnellement identifiables. Les informations que nous demandons seront conservées par nous et utilisées comme décrit dans cette politique de confidentialité.
-
-L'application utilise des services tiers qui peuvent collecter des informations utilisées pour vous identifier.
-
-Lien vers la politique de confidentialité des fournisseurs de services tiers utilisés par l'application
-
-Services Google Play
-Consigner les données
-
-Nous souhaitons vous informer que chaque fois que vous utilisez notre Service, en cas d'erreur dans l'application, nous collectons des données et des informations (via des produits tiers) sur votre téléphone, appelées Log Data. Ces données de journal peuvent inclure des informations telles que l'adresse de protocole Internet («IP») de votre appareil, le nom de l'appareil, la version du système d'exploitation, la configuration de l'application lors de l'utilisation de notre service, l'heure et la date de votre utilisation du service et d'autres statistiques. .
-
-
-
-
-Cookies
-
-Les cookies sont des fichiers contenant une petite quantité de données qui sont couramment utilisés comme identifiants uniques anonymes. Ceux-ci sont envoyés à votre navigateur à partir des sites Web que vous visitez et sont stockés dans la mémoire interne de votre appareil.
-
-Ce service n'utilise pas ces «cookies» de manière explicite. Cependant, l'application peut utiliser du code tiers et des bibliothèques qui utilisent des «cookies» pour collecter des informations et améliorer leurs services. Vous avez la possibilité d'accepter ou de refuser ces cookies et de savoir quand un cookie est envoyé à votre appareil. Si vous choisissez de refuser nos cookies, vous ne pourrez peut-être pas utiliser certaines parties de ce service.
-
-Les fournisseurs de services
-
-Nous pouvons employer des sociétés et des particuliers tiers pour les raisons suivantes:
-
-Pour faciliter notre service;
-Pour fournir le service en notre nom;
-Pour effectuer des services liés au service; ou
-Pour nous aider à analyser l'utilisation de notre service.
-Nous voulons informer les utilisateurs de ce service que ces tiers ont accès à vos informations personnelles. La raison est d'accomplir les tâches qui leur sont assignées en notre nom. Cependant, ils sont tenus de ne pas divulguer ou utiliser les informations à d'autres fins.
-
-Sécurité
-
-Nous apprécions votre confiance en nous fournissant vos informations personnelles, nous nous efforçons donc d'utiliser des moyens commercialement acceptables pour les protéger. Mais rappelez-vous qu'aucune méthode de transmission sur Internet ou méthode de stockage électronique n'est sûre et fiable à 100%, et nous ne pouvons garantir sa sécurité absolue.
-
-Liens vers d'autres sites
-
-Ce service peut contenir des liens vers d'autres sites. Si vous cliquez sur un lien tiers, vous serez dirigé vers ce site. Notez que ces sites externes ne sont pas exploités par nous. Par conséquent, nous vous conseillons fortement de consulter la politique de confidentialité de ces sites Web. Nous n'avons aucun contrôle sur et n'assumons aucune responsabilité pour le contenu, les politiques de confidentialité ou les pratiques de tout site ou service tiers.
-
-
-
-Confidentialité des enfants
-
-Ces services ne s'adressent à personne de moins de 13 ans. Nous ne collectons pas sciemment des informations personnellement identifiables d'enfants de moins de 13 ans. Dans le cas où nous découvrons qu'un enfant de moins de 13 ans nous a fourni des informations personnelles, nous les supprimons immédiatement de nos serveurs. Si vous êtes un parent ou un tuteur et que vous savez que votre enfant nous a fourni des informations personnelles, veuillez nous contacter afin que nous puissions prendre les mesures nécessaires.
-
-Modifications de cette politique de confidentialité
-
-Nous pouvons mettre à jour notre politique de confidentialité de temps en temps. Il est donc conseillé de consulter régulièrement cette page pour tout changement. Nous vous informerons de tout changement en publiant la nouvelle politique de confidentialité sur cette page. Ces modifications prennent effet immédiatement après leur publication sur cette page.
-
-Nous contacter
-
-Si vous avez des questions ou des suggestions concernant notre politique de confidentialité, n'hésitez pas à nous contacter.
-
-
-
-
-
-
+La plateforme https://senegalservices.sn/ est un portail d’information, d’échange, de communication et de mise à disposition de services en ligne pour les usagers de l’Administration. L’accès est ouvert au public.
+La plateforme permet aux utilisateurs :
+D’obtenir des informations sur les démarches administratives, notamment la procédure à suivre, le service compétent, le dossier à fournir, le coût à payer, les délais, etc.
+De réaliser des démarches administratives en ligne de manière sécurisée.
+De suivre le traitement des démarches
+D'échanger avec l’ADIE sur les démarches en ligne.
+L’utilisation de la plateforme est facultative et gratuite.
+Acceptation des conditions d’utilisation
+Les présentes conditions générales d’utilisation s’appliquent à tout utilisateur de la plateforme. Tout utilisateur reconnaît avoir pris connaissance des présentes conditions et déclare expressément les accepter sans réserve.
+Avertissement relatif au contenu de la plateforme
+La plateforme https://senegalservices.sn/ propose un contenu dont l’authenticité est vérifiée régulièrement. En cas de doute sur l’interprétation d’un document publié sur cette plateforme ou si vous constatez des erreurs, nous vous conseillons de contacter le responsable à l’adresse suivante :
+Aspects techniques de la plateforme
+En cas de difficultés d’ordre technique, le responsable de la plateforme peut être contacté à l'adresse suivante : . 
+L’utilisation du service requiert une connexion, un navigateur internet mis à jour, une adresse courriel ou un numéro de téléphone. Pour un fonctionnement optimal, l'affichage doit être paramétrée avec une résolution minimale de 1920x1080. A la création du compte sur la plateforme https://senegalservices.sn/, l'utilisateur doit veiller à la sécurité de son identifiant et de son mot de passe. Il est le seul à détenir ses identifiants. A cet effet, Sénégal Numérique SA ne pourra être tenu pour responsable des dommages éventuellement causés par l’utilisation abusive de l’identifiant et du mot de passe d’un utilisateur.
+Gestion des données à caractère personnel
+Sénégal Numérique SA s’engage à se conformer aux dispositions de la loi n° 2008-12 du 25 janvier 2008 sur la protection des données à caractère personnel. A cet effet, les traitements de données à caractère personnel à travers la plateforme https://senegalservices.sn/ ont fait l’objet de formalités déclaratives auprès de la Commission des Données Personnelles (CDP). En vertu de la loi précitée, tout usager dispose d’un droit d’accès, de rectification ainsi qu’un droit d’opposition. Pour toute information relative au traitement de données à caractère personnel, vous pouvez contacter l’ADIE à l’adresse suivante :
+Mesures de sécurité
+Sénégal Numérique SA s'engage à prendre toutes précautions utiles pour préserver la sécurité des données collectées auprès de l'utilisateur, et notamment empêcher qu'elles soient déformées, endommagées ou que des tiers non autorisés y aient accès.
+Droits d'auteur, Copyright et droits de reproduction
+Tous les composants de la plateforme https://senegalservices.sn/ (structure, textes, mise en forme, images, logos, charte graphique, bases de données, etc.) sont la propriété de l’Etat du Sénégal, sous la responsabilité de Sénégal Numérique SA. Cette plateforme est protégée par le droit d'auteur et par le Copyright. À l’exception de l’iconographie, la reproduction du contenu de cette plateforme est autorisée à la condition de mentionner la source et la date. Les informations reproduites ne peuvent être utilisées à des fins commerciales ou publicitaires. Par ailleurs, la création de liens vers cette plateforme est libre.
+Modification
+Sénégal Numérique SA se réserve le droit de modifier ou de mettre à jour les conditions générales d’utilisation sans préavis.
+Règlement des litiges
+La plateforme https://senegalservices.sn/ relèvent de la législation sénégalaise et internationale sur le droit d'auteur et plus largement sur le droit de la propriété intellectuelle.
