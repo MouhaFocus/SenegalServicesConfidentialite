@@ -1,6 +1,6 @@
 # Politique de confidentialité
 
-SENUM a construit l'application Customer Corner ADVANS en tant qu'application commerciale. Ce service est fourni par SENUM et est destiné à être utilisé tel quel.
+SENUM a construit l'application Sénégal Service en tant qu'application commerciale. Ce service est fourni par SENUM et est destiné à être utilisé tel quel.
 
 Cette page est utilisée pour informer les visiteurs de nos politiques concernant la collecte, l'utilisation et la divulgation des informations personnelles si quelqu'un décide d'utiliser notre service.
 
